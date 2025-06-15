@@ -2,5 +2,5 @@
 
 int main() {
   std::cout << "bruh" << "\n";
-return 0;
+  return 0;
 }
